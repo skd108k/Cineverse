@@ -38,7 +38,7 @@ This is a fully functional and responsive Movies Information Website built using
 1. Clone this repository to your local machine.
 2. Navigate to the project directory using your terminal.
 3. Install the required dependencies using the command: npm install
-4. Rename the `.env.example` file to `.env` and replace `REACT_APP_TMDB_API_KEY` with your TMDb API key.
+4. Create `.env` and also create `REACT_APP_TMDB_API_KEY` with your TMDb API key.
 5. Run the development server with: npm start.
 6. Open your browser and go to `http://localhost:3000` to view the website.
 
